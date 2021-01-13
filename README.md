@@ -1,2 +1,2 @@
 # -directory-organizer
-Program to organize your directory very quickly.
+Program to organize your directory.
